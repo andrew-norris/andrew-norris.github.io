@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-layout: page
+layout: blogs
 title: designer
 icon: fas fa-pen-nib
 order: 4
