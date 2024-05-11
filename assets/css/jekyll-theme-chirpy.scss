@@ -30,3 +30,11 @@
 search {
   display: none;
 }
+
+a {
+  color: #B7B7B7;
+
+  &:hover {
+    color: white;
+  }
+}
