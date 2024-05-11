@@ -1,6 +1,7 @@
 ---
 # the default layout is 'page'
 layout: page
+title: speaker
 icon: fas fa-person-chalkboard
 order: 4
 ---
