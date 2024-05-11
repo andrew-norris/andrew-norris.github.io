@@ -1,0 +1,32 @@
+---
+---
+
+@import 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+
+.dynamic-title {
+  text-transform: lowercase;
+}
+.site-title {
+  text-transform: lowercase;
+}
+.site-subtitle {
+  text-transform: lowercase;
+}
+.nav-link {
+  text-transform: lowercase;
+}
+
+#breadcrumb {
+  text-transform: lowercase;
+}
+
+search {
+  display: none;
+}

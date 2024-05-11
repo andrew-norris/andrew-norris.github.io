@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+{% include lang.html %}
+{% capture index %}
+{% include new_home.md %}
+{% endcapture %}
+
+<article class="px-1">
+    <h1 class="dynamic-title">
+      Home
+    </h1>
+    <div class="content">
+
+
+    {{ index | markdownify }}
+    </div>
+</article>
